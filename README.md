@@ -40,6 +40,3 @@ This project focuses on **core Java fundamentals** such as variables, constants,
 
 4. Finally, it displays a formatted mood report.
 
----
-
-## ▶️ Example Output
